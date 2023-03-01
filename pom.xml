@@ -68,5 +68,6 @@
         </executions>
       </plugin>
     </plugins>
+    <finalName>simple-java-maven-app</finalName>
   </build>
 </project>
